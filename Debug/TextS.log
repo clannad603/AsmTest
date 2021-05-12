@@ -1,0 +1,3 @@
+﻿  Assembling text.asm...
+text.obj : warning LNK4258: 指令“/ENTRY:main@0”与开关“/ENTRY:main”不兼容；已忽略
+  TextS.vcxproj -> D:\Users\huangrui\source\repos\TextS\Debug\TextS.exe
